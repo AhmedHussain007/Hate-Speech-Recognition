@@ -53,12 +53,15 @@ The system predicts whether a given text is **Hate Text** or **Not Hate Text**.
 
 ---
 
-## ![image.png](attachment:image.png)
+## Dataset Resource Screenshot
 
-Deployed Model Screenshot
+<img src="images/image.png" width="600">
+
 ---
 
-## ![image-2.png](attachment:image-2.png)
+## App Interface
+
+<img src="images/image-2.png" width="600">
 
 ---
 
